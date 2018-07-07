@@ -8,7 +8,8 @@ module.exports = function associations (models) {
     entidades,
     modulos,
     permisos,
-    personas
+    personas,
+    agencias
   } = models;
 
   // Asociaciones tabla usuarios

@@ -14,6 +14,7 @@ module.exports = async function setupApi (app, services, api) {
 
   // EXAMEN
   app.get('/sucursales', api.public.sucursales);
+  app.get('/sucursales/:id', api.public.sucursalesId);
 
   // Agregando validación del token jwt
   // app.use('*', auth(config.auth));
