@@ -22,7 +22,7 @@
     "Módulo",
     "usuario"
   ],
-  "author": "Omar Gutiérrez Condori <ogutierrez@agetic.gob.bo>",
+  "author": "ramiro huayller",
   "license": "MIT",
   "dependencies": {
     "app-logs": "^1.1.4",

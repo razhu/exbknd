@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git@gitlab.geo.gob.bo:base/common.git"
   },
-  "author": "Omar Gutiérrez C. <ogutierrez@agetic.gob.bo>",
+  "author": "ramiro huayller",
   "license": "MIT",
   "dependencies": {
     "chalk": "^2.4.1",

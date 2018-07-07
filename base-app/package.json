@@ -12,7 +12,7 @@
   "keywords": [
     "Aplicación"
   ],
-  "author": "Omar Gutiérrez Condori <ogutierrez@agetic.gob.bo>",
+  "author": "ramiro huayller",
   "license": "MIT",
   "dependencies": {
     "base-usuarios": "file:../base-usuarios",
